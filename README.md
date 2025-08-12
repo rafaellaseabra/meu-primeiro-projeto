@@ -10,8 +10,8 @@ Git Hub, Visual Studio Code, Terminal e Navegador.
 Envolve a cópia dos arquivos e configurações do projeto para um local seguro, garantindo a recuperação em caso de perda ou dano.
 
 ## Simulação de Falha:
-Explique como será simulada a falha (exclusão da pasta local,
-falha no disco, etc.).
+- Abra um editor de texto, um leitor de PDF ou qualquer outro programa que acesse a pasta que você deseja simular a exclusão. 
+
 
 ## Procedimento de Recuperação:
 Para realizar a recuperação é necessário seguir esses passos:
