@@ -20,6 +20,6 @@ Para realizar a recuperação é necessário seguir esses passos:
 3.  npx next dev
 4.  npm install.
 
-## ✅Critérios de Aceitação:
+## Critérios de Aceitação:
 Defina os critérios que indicam sucesso na recuperação (tempo,
 ausência de erros, funcionamento completo).
